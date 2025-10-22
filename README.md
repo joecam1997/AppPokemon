@@ -131,5 +131,3 @@ Abrir [http://localhost:3000](http://localhost:3000)
 
 * Proyecto de demostración técnica de Frontend/Backend con Next.js y Firebase
 
-¿Quieres que haga eso también?
-```
