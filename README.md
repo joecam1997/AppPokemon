@@ -125,6 +125,24 @@ Abrir [http://localhost:3000](http://localhost:3000)
 
 ---
 
+## 🐳 Ejecución con Docker
+
+Este proyecto está completamente dockerizado para facilitar su despliegue y pruebas técnicas.
+
+### Requisitos previos
+- Tener instalado [Docker](https://www.docker.com/)
+
+### Construcción de la imagen
+```bash
+docker build -t pokedex-nextjs .
+Ejecución del contenedor
+bash
+Copiar código
+docker run -p 3000:3000 pokedex-nextjs
+Acceso
+Abre en tu navegador:
+👉 http://localhost:3000
+
 ## 👨‍💻 Autor
 
 **Joel Campoverde Gonzalez**
